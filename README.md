@@ -36,8 +36,8 @@ Company you work for is currently using the external company to generate a paych
 ## Time plan
 ##### Eva Bedanova
 
-Hours | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- 
-Analysis | X | X | X | X | X | X | X | X | X | X 
+Hours | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+Analysis | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
 
 
