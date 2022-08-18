@@ -50,8 +50,10 @@ Hours | #Planned | #Reality
 Analysis | 6 | 17 
 Design | 8 | 13 
 Development | 20 | 34 
-Testing | 6 | 16 
+Testing | 6 | 21 
 Deployment | 4 | 8 
 
+
+---------
 
 
