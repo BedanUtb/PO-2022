@@ -38,7 +38,11 @@ Company you work for is currently using the external company to generate a paych
 
 Hours | #5 | #10 | #15 | #20 | #25 | #30 | #35 | #40 | #45 | #50 | #55
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Analysis | X | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
-Analysis | X | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+Analysis | X | X | X | X | 289 | 285 | 287 | 287 | 272 | 276 | 269
+Design | - | - | X | X | X | X | 287 | 287 | 272 | 276 | 269
+Development | - | - | - | - | X | X | X | X | X | X | 269
+Testing | - | - | - | - | - | - | - | X | X | X | X
+Deployment | - | - | - | - | - | - | - | - | - | - | X
+
 
 
