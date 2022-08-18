@@ -55,5 +55,10 @@ Deployment | 4 | 8
 
 
 ---------
-
+## Reasons of delay
+- Non-integrity data
+- Special cases of employees
+- Design patterns included in word
+- Getting the inputs and correcting them from management
+- Errors made during the development
 
