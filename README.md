@@ -23,6 +23,14 @@ Company you work for is currently using the external company to generate a paych
 
 
 ## Questions
+- How will be sensitive data handled ? 
+  - The sensitive data will be collected only in purpose to serve this document and after getting from the database will be encrypted in an csv file. After generating all files (around 900 pcs) the file will be deleted automatically. 
+- Who will be able to see the output of program? 
+  - Only the employees of HR who are incharge of paychecks. All proces will be secured and no other person from outside will get an opportunity to see what is not suposed to see. 
+- Who will have access to the programm?
+  - Only an administrator of the database who is also a programmer of this software. 
+- How will be chechked / ensured that the data are correct?
+ - There will be randomly selected 30 exaples which will be checked by HR and also the test function will be developed which will select the records with the most significant deviation
 
 
 ## Time plan
