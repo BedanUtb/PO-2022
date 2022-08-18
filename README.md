@@ -15,6 +15,11 @@ Company you work for is currently using the external company to generate a paych
 
 
 ## Used Technologies
+- Python
+- Django framework
+- SQL
+- python-docx
+- Microsoft SQL Management Studio
 
 
 ## Questions
