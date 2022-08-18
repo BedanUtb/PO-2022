@@ -37,7 +37,7 @@ Company you work for is currently using the external company to generate a paych
 ##### Eva Bedanova
 
 Hours | #5 | #10 | #15 | #20 | #25 | #30 | #35 | #40 | #45 | #50 | #55 | #60
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
+--- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |--- |---
 Analysis | X | X | X | X |   |   |   |   |   |   |  
 Design |   |   | X | X | X |   |   |   |   |   |  
 Development |   |   |   | X | X | X | X | X | X | X |  
