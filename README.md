@@ -30,7 +30,7 @@ Company you work for is currently using the external company to generate a paych
 - Who will have access to the programm?
   - Only an administrator of the database who is also a programmer of this software. 
 - How will be chechked / ensured that the data are correct?
- - There will be randomly selected 30 exaples which will be checked by HR and also the test function will be developed which will select the records with the most significant deviation
+  - There will be randomly selected 30 exaples which will be checked by HR and also the test function will be developed which will select the records with the most significant deviation
 
 
 ## Time plan
