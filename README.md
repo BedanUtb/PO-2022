@@ -5,6 +5,13 @@ Company you work for is currently using the external company to generate a paych
 
 
 ## Requirements
+1. The progremm will generate the paycheck for all employees who are in company for whole fiscal year or longer (because there will be displayed some benefits which are directly conditioned by at least one year of employment)
+2. The number of cash money given in meal cards will be counted
+3. Employee should be able to see total number of benefits for whole year
+5. Sick days are counted as well as mothers day and fathers day gift card value
+6. Employees who are on maternity leave will not be counted
+7. Output should be in word format as a number of documents (one document per employee)
+8. Programme should be directly connetcted to the database so no direct input from HR is needed 
 
 
 ## Used Technologies
