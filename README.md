@@ -41,8 +41,8 @@ Hours | #5 | #10 | #15 | #20 | #25 | #30 | #35 | #40 | #45 | #50 | #55 | #60
 Analysis | X | X | X | X |   |   |   |   |   |   |   |  
 Design |   |   | X | X | X |   |   |   |   |   |   |  
 Development |   |   |   | X | X | X | X | X | X | X |   |  
-Testing |   |   |   |   |   |   |   | X | X | X | X |  
-Deployment |   |   |   |   |   |   |   |   |   |   | X |  
+Testing |   |   |   |   |   |   |   | X | X | X | X | X |  
+Deployment |   |   |   |   |   |   |   |   |   |   | X | X |   
 
 
 Hours | #Planned | #Reality 
